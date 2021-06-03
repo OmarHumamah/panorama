@@ -1,5 +1,58 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
 #star1,#star2,#star3,#star4,#star5{
-  width:50px;
-  height: 50px;
+  width:20px;
+  height: 20px;
 
 }
+
+#header01{
+  background: rgb(46, 28, 70);
+  padding: 20px;
+  color: #fff;
+  }
+
+ul{
+float: right;
+direction: none;
+
+}
+
+main{
+  padding-top: 100px;
+  padding-left: 50px;
+  margin-bottom: 50px;
+
+}
+
+#lop{
+  background: gray;
+  margin: 50px;
+  ;
+}
+
+h1{
+  margin-bottom: 20px;
+}
+
+#sec02{
+background: rgb(119, 13, 13); 
+color: #fff; 
+padding-left: 100px;
+;
+}
+
+
+footer{
+  text-align: center;
+  background: gray;
+  padding: 20px;
+  margin-bottom: 10px;
+  }
+
+
